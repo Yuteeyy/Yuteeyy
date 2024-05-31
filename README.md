@@ -1,7 +1,7 @@
 ## 🔒・Yuteeyy Information
 ```
 📌 ・ Personal Information :
-    I'am 16 years old boy french, know HTML and CSS, a little bit Python and curently learning C++ and JavaScript.
+    I'am 16 years old boy french, know HTML and CSS, and curently learning C++ and JavaScript.
 ```
 ```
 🌎 ・ My Languages :
