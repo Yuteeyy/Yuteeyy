@@ -7,6 +7,7 @@
 🌎 ・ My Languages :
     🇫🇷 - French : Native
     🇺🇸 - English : B1
+    🇪🇸 - Español : Don't worry about my level 💀
 ```
   
 ## 💻・Stack :
